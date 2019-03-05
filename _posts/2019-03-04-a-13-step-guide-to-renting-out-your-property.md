@@ -19,7 +19,7 @@ youtube_code: NuWEQlRbzw8
 
 {% include youtube.html %}
 
-Renting out your second (or third or fourth) home can be a great way to earn passive income, but how should you approach the task of managing this property? Some will encourage you to hire a property manager, but the truth is that you can easily, and effectively, handle this job on your own.&nbsp;
+Renting out your second or third or fourth home can be a great way to earn passive income, but how should you approach the task of managing this property? Some will encourage you to hire a property manager, but the truth is that you can easily, and effectively, handle this job on your own.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
